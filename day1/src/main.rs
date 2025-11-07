@@ -52,11 +52,11 @@ fn part3(input: String) -> String {
 
 fn main() {
     // Part 1
-    println!("Part 1: {}", part1("day1/part1_input.txt".to_string()));
+    println!("Part 1: {}", part1("day1/part1.txt".to_string()));
 
     // Part 2
-    println!("Part 2: {}", part2("day1/part2_input.txt".to_string()));
+    println!("Part 2: {}", part2("day1/part2.txt".to_string()));
 
     // Part 3
-    println!("Part 3: {}", part3("day1/part3_input.txt".to_string()));
+    println!("Part 3: {}", part3("day1/part3.txt".to_string()));
 }

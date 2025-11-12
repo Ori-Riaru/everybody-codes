@@ -1,1 +1,22 @@
-4,51,13,64,57,51,82,57,16,88,89,48,32,49,49,2,84,65,49,43,9,13,2,3,75,72,63,48,61,14,40,77
+Xanverax,Khargyth,Nexzeth,Helther,Braerex,Tirgryph,Kharverax
+
+r > v,e,a,g,y
+a > e,v,x,r
+e > r,x,v,t
+h > a,e,v
+g > r,y
+y > p,t
+i > v,r
+K > h
+v > e
+B > r
+t > h
+N > e
+p > h
+H > e
+l > t
+z > e
+X > a
+n > v
+x > z
+T > i
